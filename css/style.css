@@ -1,0 +1,48 @@
+header{
+    background:lightblue;
+    text-align: center;
+    padding: .5%;
+    border: none;
+    border-radius: 30px;
+}
+h1{
+    color: aliceblue;
+    font-size: 150%;
+}
+nav{
+    font-size: 150%;
+    color: rgb(3, 3, 54);
+    
+}
+body{
+    background:cadetblue;
+    font-size: 150%;
+    margin: 2%    
+}
+section{
+   display: inline-block;
+   width: 33%;
+   float:left;
+  margin: auto;
+}
+h2{
+    background:  lightblue;
+    border: none;
+    border-radius: 10px;
+    color: chocolate;
+    display: inline-block;
+    padding: 1%;
+}
+footer{
+    background:  lightblue;
+    clear: both;
+    border: none;
+    border-radius: 30px;
+    padding: 1%;
+
+}
+a{
+    
+}
+
+

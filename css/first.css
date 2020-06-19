@@ -1,0 +1,44 @@
+
+h1{
+	text-align: center; color:darkblue;border-style:dashed;border-color: crimson; outline: thick groove green;
+}
+nav{
+	color: orange;
+	font-variant:small-caps;
+	font-size:  150% ;
+	font-family:  arial;
+}
+h2{
+	font-family: cursive;
+	background: yellow;
+	background-size: 200px;
+	display: inline-block;
+	color: blue;
+	border-style:groove 10px;
+	border-color: crimson; 
+}
+p{
+	color: rgba(17, 202, 131, 0.8);
+	line-height: 2px;
+	font-size: 150%;
+}
+ul{
+	color: darkgreen;
+	font-family: cursive;
+	font-size: 150%;
+}
+body{
+		background-color: #000000;
+		background-image: url("../img/.png") ;
+		background-size: 400px;
+		background-repeat: no-repeat;
+		background-position: center;
+		background-attachment: fixed;
+		font-size: 120%;
+	} 
+section {
+	display: block;
+}
+progress{
+	margin: 2% 0%;
+}
