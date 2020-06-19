@@ -1,2 +1,56 @@
 # NknownCoder.github.io
-first attempt after creating another github account....
+<!doctype html>
+<html lang="en">
+<head>
+	<title>Final Project</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/style.css">
+	
+</head>
+<body>
+		<header>
+	<h1>The Final Project</h1>
+	
+		<nav>
+			<a href="#one" target="_blank" >One</a>
+			<a href="#two" target="_self">Two</a>
+			<a href="#three" target="_top">Three</a>
+			<a href="#footer">My choice</a>
+		</nav>
+	</header>
+	<section id="one">
+	<h2>Favorite Foods</h2>
+	<ul>
+		<li>Pizza</li>
+		<li>Burger</li>
+		<li>Mango</li>
+		<li>Apple</li>
+	</ul>
+  	</section>
+  	<section id="two">
+	<h2>Achievements</h2>
+	
+	
+	<p>		
+	progress in this course(100%)<br><progress value="100" max="100"></progress><br>
+	progress in the Specialization capstone(20%)<br><progress value="20" max="100"></progress><br>
+	
+	progress in life goal(15%)<br><progress value="15" max="100"></progress></p>
+	</section> 	
+	<section id="three">
+		<h2>More About Me</h2>
+		<details>
+			<summary >My Chilhood</summary>
+			<p>I am from India. I am liked this course. About my hobbies, I like to swim, I am kind of foodie. There are lots of good memories about childhood, that I'am not able to share here.</p>
+		</details>
+		
+	</section><br>
+
+	<footer id="footer">
+		<p>
+			<img src="http://www.intro-webdesign.com/images/newlogo.png" alt="logo of WD4E  " width="10%" height="5%">
+			This page was created by me & Colleen van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com">Intro Web Design</a>.</p>
+			<br>
+			<a href="mailto:saurav@gmail.com" target="_self" style="font-size: 180%" >mailto:</a>
+	</footer>
+</body>
