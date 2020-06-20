@@ -11,16 +11,19 @@ nav{
 h2{
 	font-family: cursive;
 	background: yellow;
-	background-size: 200px;
+	background-size: 20%;
 	display: inline-block;
 	color: blue;
-	border-style:groove 10px;
+	border-style:groove 2%;
 	border-color: crimson; 
 }
 p{
 	color: rgba(17, 202, 131, 0.8);
-	line-height: 2px;
+	
 	font-size: 150%;
+}
+summary{
+	color: crimson;
 }
 ul{
 	color: darkgreen;
@@ -30,7 +33,7 @@ ul{
 body{
 		background-color: #000000;
 		background-image: url("../img/.png") ;
-		background-size: 400px;
+		background-size: 30%;
 		background-repeat: no-repeat;
 		background-position: center;
 		background-attachment: fixed;
@@ -40,5 +43,5 @@ section {
 	display: block;
 }
 progress{
-	margin: 2% 0%;
+	margin: 0% 0% 3% 0%;
 }
