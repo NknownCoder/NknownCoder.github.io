@@ -4,6 +4,12 @@
 	<title>3D Gallery</title>
 	<link rel="stylesheet" type="text/css" href="3D_style.css">
 	<link rel="icon" type="png" href="image/myLogo.png">
+	<script>
+		document.addEventListener('click', musicPlay);
+    function musicPlay() {
+    document.getElementById('ID').play();
+    document.removeEventListener('click', musicPlay);
+    }
 </head>
 <body>
 	<!-- <div id="text">
@@ -22,7 +28,7 @@
 		<span style="--i:8;"><img src="image/8.png"></span>
 
 	</div>
-	<audio autoplay="True" loop="True">
+	<audio autoplay="True" loop="True" id="ID">
 		<source src="image/music.mp3" type="audio/mp3">
 	</audio>
 	
