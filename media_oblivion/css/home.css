@@ -1,0 +1,76 @@
+        #video video {
+        margin: 7% 25% 2%;
+        width: 50%;
+    }
+    
+    #about {
+        background: lightgray;
+        font-size: 1.5rem;
+    }
+    
+    #about p {
+        padding: 2% 4% 3%;
+        font-size: 2rem;
+        text-align: justify;
+    }
+    
+    .topic {
+        background: rgb(0, 0, 0);
+        text-align: center;
+        width: 100%;
+        line-height: 1%;
+    }
+    
+    .text {
+        color: lightblue;
+        font-size: 3rem;
+        padding: 4%;
+    }
+    
+    #wwd {
+        padding: 2%;
+        margin-left: 5%;
+    }
+    
+    #wwd a {
+        text-decoration: none;
+        color: darkblue;
+    }
+    
+    #wwd a h3 {
+        padding: 2%;
+        font-size: 2rem;
+        text-align: center;
+    }
+    
+    .wwd {
+        margin: 0%;
+        width: 15%;
+        height: auto;
+    }
+    
+    #tpc {
+        background: black;
+        text-align: center;
+        width: 100%;
+    }
+    
+    .oc {
+        margin: 0% 1% 3%;
+        width: 8%;
+        height: auto;
+    }
+    
+    #viewer {
+        width: 70%;
+        margin: 5%;
+    }
+    
+    #form {
+        /* margin: 5%; */
+        background: lightgray;
+        padding: 3% 2%;
+        /* width: 90%; */
+        line-height: 2rem;
+        font-size: 2rem;
+        text-align: inherit;
